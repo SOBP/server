@@ -6,7 +6,6 @@
 버전 : 1.0<br>
 제작자 : KCPIT(kgu090716)<br>
 
---------------------------------------
 # 설치 방법
 터미널에서<br>
 git clone https://github.com/kgu090716/server.git<br>
