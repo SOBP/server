@@ -6,8 +6,8 @@
 
 --------------------------------------
 # 설치 방법
-터미널에
-git clone https://github.com/kgu090716/server.git
-cd ~/server
-chmod +x *
-./server.sh
+터미널에서<br>
+git clone https://github.com/kgu090716/server.git<br>
+cd ~/server<br>
+chmod +x *<br>
+./server.sh<br>
