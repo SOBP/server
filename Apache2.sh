@@ -8,7 +8,8 @@ while true; do
     read -p "Apache2를 설치할까요? [YES/NO] " yn
     case $yn in
         [Yy]* ) echo "Apache2를 설치합니다."
-                sudo apt-get update && sudo apt-get upgrade
+                sudo apt-get install apache2
+echo "Apache2 설치 완료"
 ./PHP.sh
 return 0;;
         [Nn]* ) ./PHP.sh;;
