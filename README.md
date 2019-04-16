@@ -1,2 +1,3 @@
-Okay. sync done :)
-now try this lel
+chmod 777 scom
+mv scom/(file name) (file name)
+./(file name)
