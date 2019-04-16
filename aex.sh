@@ -8,4 +8,3 @@
                 nano ../zeroltexx/vendorsetup.sh
                 nano ../zeroltecan/vendorsetup.sh
                 nano ../zerofltecan/vendorsetup.sh
-done
